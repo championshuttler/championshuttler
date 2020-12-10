@@ -18,12 +18,12 @@
  <details>
 <summary>📊 Github Stats</summary>
 
-https://visitor-badge.laobi.icu/badge?page_id=championshuttler
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=championshuttler&show_icons=true&theme=gotham" alt="championshuttler | Stats" />
 </details>
 
 
- ![Visitor Count](https://profile-counter.glitch.me/{championshuttler}/count.svg)
- 
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=championshuttler) 
+
 [twitter]: https://twitter.com/idkhtml
 [Hashnode]: https://championshuttler.in
 [linkedin]: https://www.linkedin.com/in/championshuttler/
