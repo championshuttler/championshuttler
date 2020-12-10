@@ -15,7 +15,7 @@
 * I’m currently working on my portfolio.
 * Ask me about anything, I'll be happy to help.
 
- <details>
+ <details open>
 <summary>📊 Github Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=championshuttler&show_icons=true&theme=gotham" alt="championshuttler | Stats" />
