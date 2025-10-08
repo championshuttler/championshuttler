@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I'm a Open Source Developer based in Finland 🇫🇮 contributing to different **[@Mozilla](https://mozilla.org)** Projects. Previously, I've worked at **[@Hackerrank](https://www.hackerrank.com/)**, **[@CNCF](https://www.cncf.io/)**, **[@OpenMainFrame](https://www.openmainframeproject.org/)**.
+I'm a Open Source Developer based in Finland 🇫🇮 contributing to different **[@Mozilla](https://mozilla.org)** Projects. Previously, I've worked at **[@Hackerrank](https://www.hackerrank.com/)**, **[@OpenMainFrame](https://www.openmainframeproject.org/)**.
 
 I maintain docs at Firefox, represent Mozilla as official Mozilla Representative. I love writing documentation, organizing meetups, conferences and always up to help in growing communites.
 
