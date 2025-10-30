@@ -7,7 +7,6 @@ I maintain docs at Firefox, represent Mozilla as official Mozilla Representative
 
 
 ## ⚡️ A few Quick Facts
-- 📚 I'm currently reading [Clean Code by Robert C. Martin](https://www.oreilly.com/library/view/clean-code-a/9780136083238/) 
 - 🎯 Hit me up for **browsers** ,**developer communities**, **developer tools**, or **tech in general**.
 - 📝 I write articles on [Medium](https://medium.com/@shivams2799), [itsopensource.com](https://itsopensource.com)
 
